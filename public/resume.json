@@ -1,0 +1,503 @@
+{
+    "profile": {
+        "name_vi": "Phạm Thành Phương",
+        "name_en": "Phuong Pham Thanh",
+        "location": {
+            "address": "227 Ngọc Lâm",
+            "city": "Ha Noi",
+            "region": "Long Bien",
+            "countryCode": "VN"
+        },
+        "tel": "+84 98 210 2015",
+        "dob": "1989-09-08",
+        "email": "thanhphuong89@gmail.com",
+        "github": "https://github.com/phuopham",
+        "others": [
+            {
+                "status": "married",
+                "children": [
+                    {
+                        "gender": "female",
+                        "born": 2015
+                    },
+                    {
+                        "gender": "female",
+                        "born": 2019
+                    }
+                ]
+            }
+        ],
+        "interests": [
+            "Tech in common",
+            "Development",
+            "traveling"
+        ]
+    },
+    "target": {
+        "current": "become a cloud-based Dev-Ops engineer"
+    },
+    "career": [
+        {
+            "from": "Mar 2022",
+            "to": "now",
+            "company": "Qualcomm Vietnam",
+            "title": "IT engineer",
+            "detail": [
+                "End-user support",
+                "Support new-comer and post-termination process",
+                "Printers administration",
+                "Cisco IP phone administration",
+                "Monthly HW audit activity",
+                "Coordinate with vendors to maintain, upgrade or troubleshoot services",
+                "Troubleshoot, analyze and handle technical issue via Service-Now",
+                "and report problem to direct manager",
+                "Do assigned task from direct supervisor and manager",
+                "Do commercial tasks like: get specs, get quotation, PR/PO..."
+            ],
+            "achievement": [
+                "Successfully sign 3 year contract with the company after prober time"
+            ]
+        },
+        {
+            "from": "Oct 2016",
+            "to": "Feb 2022",
+            "company": "Siemens Limited Vietnam",
+            "title": "IT support officer",
+            "detail": [
+                "End-User support including documentation",
+                "Administration of Cisco networking system",
+                "Administration of Microsoft servers, proxy server, ...",
+                "Administration of backup solution. Both hardware (tape library and file server) and Veritas software",
+                "Support printers, doors (Sipass) , telco... system",
+                "Coordinate with vendors to maintain, upgrade or troubleshoot services",
+                "Troubleshoot, analyze and handle technical issue via Service-Now",
+                "and report problem to direct manager",
+                "Do assigned task from direct supervisor and manager",
+                "Do commercial tasks like: specify specs, PR ...",
+                "Involved in organizing company events (assist CC/CG in technical tasks)"
+            ],
+            "achievement": [
+                "Met company highest expectation 2 years in a row",
+                "\"5 years of Service with Siemens\" award"
+            ]
+        },
+        {
+            "from": "June 2013",
+            "to": "Oct 2016",
+            "company": "Tek-Experts Co., Ltd",
+            "title": "IT support engineer",
+            "detail": [
+                "Working in backup solution software support team - HP Data Protector",
+                "Keep in contact with customer in multiple languages",
+                "Understand customers' expectations and software problems",
+                "Troubleshoot and analyze software problem",
+                "Working with test labs for indoor troubleshooting and reproduce the problem",
+                "Accordingly report the problem to next level support and collaborate with them to get problem solved",
+                "Troubleshoot, analyze and handle technical issue via Service-Manager"
+            ],
+            "achievement": [
+                "Successfully handle over 1000 cases in less than 3 years",
+                "met company highest expectation every year"
+            ]
+        }
+    ],
+    "additional_career": [
+        {
+            "from": "Mar2013",
+            "to": "June 2013",
+            "company": "hoctiengduc.vn",
+            "title": "German language assistance",
+            "detail": [
+                "Research and input training sessions",
+                "Create language exercises/ suitable training"
+            ],
+            "achievement": []
+        },
+        {
+            "from": "Mar2013",
+            "to": "June 2013",
+            "company": "freelance",
+            "title": "German mentor",
+            "detail": [
+                "Prepare suitable lessons for mentee",
+                "German teaching activities"
+            ],
+            "achievement": [
+                "successfully helping 2/2 mentees pass certificate exams"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "catalog": "Development - archived",
+            "experienced_with": [],
+            "object": "Fundamental C",
+            "detail": "for logic and problem solving skill",
+            "experience_from": "2022",
+            "disruption": 1,
+            "self_rate": 2
+        },
+        {
+            "catalog": "Databases",
+            "object": "SQL databases",
+            "experienced_with": [
+                "mySQL",
+                "MSSQL",
+                "postgreSQL"
+            ],
+            "detail": "Query, join tables...",
+            "experience_from": "2022",
+            "disruption": 0,
+            "self_rate": 4
+        },
+        {
+            "catalog": "Development",
+            "object": "HTML, CSS",
+            "experienced_with": [
+                "bootstrap CSS",
+                "tailwind CSS",
+                "bulma CSS"
+            ],
+            "detail": "",
+            "experience_from": "2022",
+            "disruption": 0,
+            "self_rate": 4
+        },
+        {
+            "catalog": "Development",
+            "experienced_with": [
+                "React",
+                "NextJS",
+                "NodeJS",
+                "AngularJS - deprecated"
+            ],
+            "object": "Javascript",
+            "detail": "",
+            "experience_from": "2022",
+            "disruption": 0,
+            "self_rate": 3
+        },
+        {
+            "catalog": "Development",
+            "experienced_with": [
+                "Laravel"
+            ],
+            "object": "PHP",
+            "detail": "",
+            "experience_from": "2022",
+            "disruption": 0,
+            "self_rate": 4
+        },
+        {
+            "catalog": "Development",
+            "experienced_with": [
+                "Springboot",
+                "JavaFX"
+            ],
+            "object": "Java",
+            "detail": "",
+            "experience_from": "2022",
+            "disruption": 0,
+            "self_rate": 3
+        },
+        {
+            "catalog": "Development",
+            "experienced_with": [
+                ".NET"
+            ],
+            "object": "C#",
+            "detail": "fundamental",
+            "experience_from": "2022",
+            "disruption": 0,
+            "self_rate": 1
+        },
+        {
+            "catalog": "Backup solution",
+            "experienced_with": [
+                "HPE Data Protector",
+                "Veeam",
+                "Veritas",
+                "HPE backup HW"
+            ],
+            "object": "Backup solution",
+            "detail": "Very good knowledge in hardware and software environment \nBackup, replicate, restore data including disaster recovery \nUpgrade, maintain and replace hardware and backup software",
+            "experience_from": "2013",
+            "disruption": 1,
+            "self_rate": 5
+        },
+        {
+            "catalog": "Operating System",
+            "experienced_with": [
+                "Windows 7",
+                "Window 10",
+                "Windows 11",
+                "Ubuntu",
+                "MacOS"
+            ],
+            "object": "OS for end-user",
+            "detail": "Intermediate level: manage, basic troubleshoot and monitor",
+            "experience_from": "2013",
+            "disruption": 0,
+            "self_rate": 4
+        },
+        {
+            "catalog": "Operating System",
+            "experienced_with": [
+                "Active directory",
+                "VSS integration",
+                "DNS server",
+                "DHCP server",
+                "File Server",
+                "IIS - Web Service",
+                "WDS - Windows Deployment Service"
+            ],
+            "object": "Windows server",
+            "detail": "Manage, monitor,troubleshoot and basic config",
+            "experience_from": "2013",
+            "disruption": 0,
+            "self_rate": 3
+        },
+        {
+            "catalog": "Networking",
+            "experienced_with": [
+                "Cisco (AP, switch and router)",
+                "Dell Router"
+            ],
+            "object": "Networking",
+            "detail": "intermediate level \nMigrate, maintain, replace, upgrade and manage Cisco device such as router, core-switch, access-switch ,access point....",
+            "experience_from": "2015",
+            "disruption": 0,
+            "self_rate": 4
+        },
+        {
+            "catalog": "Networking",
+            "experienced_with": [
+                "Hipath",
+                "PABX system"
+            ],
+            "object": "Telco system",
+            "detail": "Manage, Maintain hardware, coordinate with vendor....",
+            "experience_from": "2016",
+            "disruption": 1,
+            "self_rate": 2
+        },
+        {
+            "catalog": "Networking",
+            "experienced_with": [
+                "Sipass"
+            ],
+            "object": "Security access system",
+            "detail": "Deep understanding of access security level, fallback system, fire-alarm... Manage access level, access entry, maintain software and hardware system.",
+            "experience_from": "2016",
+            "disruption": 1,
+            "self_rate": 2
+        },
+        {
+            "catalog": "Virtual environment",
+            "experienced_with": [
+                "VMware",
+                "Hyper-V",
+                "VirtualBox"
+            ],
+            "object": "Virtual machine",
+            "detail": "Create, manage VM and virtual switch",
+            "experience_from": "2016",
+            "disruption": 1,
+            "self_rate": 2
+        },
+        {
+            "catalog": "Others",
+            "experienced_with": [],
+            "object": "Troubleshooting skills",
+            "detail": "Problem understanding \nProblem analysis, replicate the problem, workaround... \ndebug analysis",
+            "experience_from": "",
+            "disruption": 0,
+            "self_rate": 5
+        },
+        {
+            "catalog": "Others",
+            "experienced_with": [],
+            "object": "Work in team",
+            "detail": "Good understanding of Agile workflow \nSharing knowledge",
+            "experience_from": "",
+            "disruption": 0,
+            "self_rate": 3
+        },
+        {
+            "catalog": "Others",
+            "experienced_with": [],
+            "object": "Work under pressure",
+            "detail": "Good understanding of priority concept",
+            "experience_from": "",
+            "disruption": 0,
+            "self_rate": 3
+        },
+        {
+            "catalog": "Others",
+            "experienced_with": [],
+            "object": "Customer support skills",
+            "detail": "Understand concept of empathy \nTicket system, deal with escalation... \ngood understanding of Support environment's concept",
+            "experience_from": "",
+            "disruption": 0,
+            "self_rate": 3
+        }
+    ],
+    "education:": [
+        {
+            "from": "2021",
+            "to": "2022",
+            "status": "graduated",
+            "institute": "Aptech University",
+            "major": "DISM (Front-end development)"
+        },
+        {
+            "from": "2009",
+            "to": "2012",
+            "status": "under-graduate",
+            "institute": "Technische Universitaet Darmstadt - Technical University of Darmstadt - Germany",
+            "major": "Computational Engineering"
+        },
+        {
+            "from": "2008",
+            "to": "2009",
+            "status": "graduated",
+            "institute": "Studienkollege Hannover",
+            "major": "German - Equal C level"
+        },
+        {
+            "from": "2008",
+            "to": "2008",
+            "status": "graduated",
+            "institute": "Goethe Institute - Hanoi",
+            "major": "German - B1 certificate"
+        }
+    ],
+    "languages": [
+        {
+            "object": "Vietnamese",
+            "detail": "Mother language",
+            "experience_from": "",
+            "disruption": 0,
+            "self_rate": 5
+        },
+        {
+            "object": "English",
+            "detail": "Intermediate level",
+            "experience_from": "2008",
+            "disruption": 0,
+            "self_rate": 4
+        },
+        {
+            "object": "German",
+            "detail": "equivalent to C level",
+            "experience_from": "2008",
+            "disruption": 8,
+            "self_rate": 3
+        }
+    ],
+    "portfolio": [
+        {
+            "start_date": "2023",
+            "period": "1 week",
+            "project": "CV",
+            "link": "",
+            "description": "A shout out portal for recruiter. Small simple with essential info.",
+            "catalog": [
+                "JSON",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "start_date": "2023",
+            "period": "1 week",
+            "project": "MiniOB",
+            "link": "https://github.com/phuopham/miniOB",
+            "description": "My wife run small online business and need a offline tool to tracking order. It need to develop fast, up-and-run, and stable. So i decided to use XAMPP along with Laravel and mySQL to take advantage of SQL and production readiness.",
+            "catalog": [
+                "mySQL",
+                "Laravel10",
+                "PHP8.1",
+                "HTML",
+                "Bootstrap5"
+            ]
+        },
+        {
+            "start_date": "2023",
+            "period": "2 weeks",
+            "project": "Sport league management API",
+            "link": "https://github.com/phuopham/q-sport-league-management",
+            "description": "In Qualcomm, we have a foosball club and they are tracking the tournament with excel file. I'm working on this to take advantage for Web and mobile development",
+            "catalog": [
+                "NodeJS",
+                "Prisma",
+                "mySQL",
+                "Typescript"
+            ]
+        },
+        {
+            "start_date": "2023",
+            "period": "2 weeks",
+            "project": "Sport league management front-end",
+            "link": "https://github.com/phuopham/league-management",
+            "description": "In Qualcomm, we have a foosball club and they are tracking the tournament with excel file. I'm working on it to implement sport league management API on Web",
+            "catalog": [
+                "HTML",
+                "Tailwind",
+                "React",
+                "Javascript"
+            ]
+        },
+        {
+            "start_date": "2022",
+            "period": "2 weeks",
+            "project": "VieSpa API - Spa management system - 2022",
+            "link": "https://github.com/phuopham/viespa",
+            "description": "Spa management system to demonstrate Java and Springboot skills",
+            "catalog": [
+                "Java",
+                "Springboot",
+                "mySQL"
+            ]
+        },
+        {
+            "start_date": "2022",
+            "period": "1 month",
+            "project": "Clarin - Cosmetic online store - 2022",
+            "link": "https://github.com/phuopham/Firstproject",
+            "description": "1st project at Aptech. Team size of 3. Demonstrate what we learnt in first semester",
+            "catalog": [
+                "HTML",
+                "Bootstrap4",
+                "PHP7",
+                "mySQL"
+            ]
+        },
+        {
+            "start_date": "2023",
+            "period": "1 month",
+            "project": "VieSpa - Spa management system - 2022",
+            "link": "https://github.com/ngtrongduc106/vieSpa",
+            "description": "2nd project at Aptech. Team size of 4. Explore desktop app with essential feature",
+            "catalog": [
+                "JavaFX",
+                "Java",
+                "mySQL"
+            ]
+        },
+        {
+            "start_date": "2023",
+            "period": "3 days",
+            "project": "eStudies - Techwiz2022",
+            "link": "https://github.com/phuopham/Techwiz2022",
+            "description": "3 days challenge for Front-end developer - Seeding round",
+            "catalog": [
+                "JSON",
+                "HTML",
+                "CSS",
+                "Bootstrap5",
+                "AngularJS - deprecated"
+            ]
+        }
+    ]
+}
