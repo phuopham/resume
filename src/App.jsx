@@ -1,8 +1,10 @@
+import React from 'react'
 import { useEffect, useState } from 'react'
 import reactLogo from '/react.svg'
 import viteLogo from '/vite.svg'
 import Navbar from './components/Navbar'
 import Profile from './components/Profile'
+import Skills from './components/Skills'
 
 function App() {
   const [resume, setResume] = useState({})
@@ -18,6 +20,7 @@ function App() {
     <div className='max-w-[1280px] m-auto'>
       <Navbar />
       {resume.profile && <Profile data={resume.profile} />}
+      {resume.skills && <Skills data={resume.skills} />}
       <div>
         <div>
           <img src={viteLogo} className="logo" alt="Vite logo" />
