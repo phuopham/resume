@@ -1,4 +1,5 @@
 import React from 'react'
+import img from '../../public/profile.jpg'
 
 const Profile = ({ data }) => {
     return (
@@ -6,7 +7,7 @@ const Profile = ({ data }) => {
             <div className='relative w-full rounded-t-xl'>
                 <div className='bg-slate-800 h-[10rem] absolute top-0 left-0 w-full z-[-1] rounded-t-xl'></div>
                 <div className='shadow-md border-8 border-green-400 rounded-full p-1 m-auto bg-slate-50 w-4/5 mt-8'>
-                    <img className='rounded-full' src="/profile.jpg" alt="" />
+                    <img className='rounded-full' src={img} alt="" />
                 </div>
             </div>
             <div className='font-bold text-xl uppercase mt-3'>{data.name_en}</div>
