@@ -410,18 +410,21 @@
     "portfolio": [
         {
             "start_date": "2023",
+            "status": "completed",
             "period": "1 week",
             "project": "CV",
-            "link": "",
-            "description": "A shout out portal for recruiter. Small simple with essential info.",
+            "link": "https://github.com/phuopham/resume",
+            "description": "A shout out portal for recruiter. Small simple website with essential info.",
             "catalog": [
                 "JSON",
                 "HTML",
-                "CSS"
+                "TailwindCSS",
+                "React"
             ]
         },
         {
             "start_date": "2023",
+            "status": "completed",
             "period": "1 week",
             "project": "MiniOB",
             "link": "https://github.com/phuopham/miniOB",
@@ -436,6 +439,7 @@
         },
         {
             "start_date": "2023",
+            "status": "on-going",
             "period": "2 weeks",
             "project": "Sport league management API",
             "link": "https://github.com/phuopham/q-sport-league-management",
@@ -449,9 +453,11 @@
         },
         {
             "start_date": "2023",
+            "status": "on-going",
             "period": "2 weeks",
             "project": "Sport league management front-end",
             "link": "https://github.com/phuopham/league-management",
+            "demo": "https://phuopham.github.io/league-management/",
             "description": "In Qualcomm, we have a foosball club and they are tracking the tournament with excel file. I'm working on it to implement sport league management API on Web",
             "catalog": [
                 "HTML",
@@ -462,10 +468,11 @@
         },
         {
             "start_date": "2022",
+            "status": "completed",
             "period": "2 weeks",
             "project": "VieSpa API - Spa management system - 2022",
             "link": "https://github.com/phuopham/viespa",
-            "description": "Spa management system to demonstrate Java and Springboot skills",
+            "description": "Spa management system to demonstrate Java and Springboot skills: OOP development, data JPA, DTO",
             "catalog": [
                 "Java",
                 "Springboot",
@@ -474,10 +481,11 @@
         },
         {
             "start_date": "2022",
+            "status": "completed",
             "period": "1 month",
             "project": "Clarin - Cosmetic online store - 2022",
             "link": "https://github.com/phuopham/Firstproject",
-            "description": "1st project at Aptech. Team size of 3. Demonstrate what we learnt in first semester",
+            "description": "1st project at Aptech. Team size of 4. Demonstrate what we learnt in first semester",
             "catalog": [
                 "HTML",
                 "Bootstrap4",
@@ -487,10 +495,11 @@
         },
         {
             "start_date": "2023",
+            "status": "completed",
             "period": "1 month",
             "project": "VieSpa - Spa management system - 2022",
             "link": "https://github.com/ngtrongduc106/vieSpa",
-            "description": "2nd project at Aptech. Team size of 4. Explore desktop app with essential feature",
+            "description": "2nd project at Aptech. \nTeam size of 4. \nExplore desktop app with essential features",
             "catalog": [
                 "JavaFX",
                 "Java",
@@ -499,9 +508,11 @@
         },
         {
             "start_date": "2023",
+            "status": "completed",
             "period": "3 days",
             "project": "eStudies - Techwiz2022",
             "link": "https://github.com/phuopham/Techwiz2022",
+            "demo": "https://phuopham.github.io/Techwiz2022/",
             "description": "3 days challenge for Front-end developer - Seeding round",
             "catalog": [
                 "JSON",
@@ -509,7 +520,8 @@
                 "CSS",
                 "Bootstrap5",
                 "AngularJS - deprecated"
-            ]
+            ],
+            "award": "seeding round"
         }
     ]
 }
