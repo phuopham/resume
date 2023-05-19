@@ -14,11 +14,11 @@ const Career = ({ data }) => {
                     <div className='px-2 text-center rounded-full bg-slate-200'>
                         {job.from} - {job.to}
                     </div>
-                    <div className='w-full bg-slate-200 rounded-xl'>{job.detail.map((detail, key) => (
+                    <ul className='w-full bg-slate-200 rounded-xl'>{job.detail.map((detail, key) => (
                         <li key={key} className='list-disc ms-7'>
                             {detail}
                         </li>
-                    ))}</div>
+                    ))}</ul>
                 </li>
             ))}
         </ul >

@@ -354,7 +354,7 @@
             "self_rate": 3
         }
     ],
-    "education:": [
+    "education": [
         {
             "from": "2021",
             "to": "2022",
@@ -366,7 +366,7 @@
             "from": "2009",
             "to": "2012",
             "status": "under-graduate",
-            "institute": "Technische Universitaet Darmstadt - Technical University of Darmstadt - Germany",
+            "institute": "TU Darmstadt - Germany",
             "major": "Computational Engineering"
         },
         {

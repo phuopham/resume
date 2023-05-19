@@ -19,7 +19,6 @@ const Skills = ({ data }) => {
             <div className='uppercase text-xl font-bold text-green-400 bg-slate-800 py-7 text-center rounded-t-xl'>
                 Skills
             </div>
-            <div></div>
             <ul className='p-3'>
                 {Object.keys(groupedData).map((key) => (
                     <li key={key}>
