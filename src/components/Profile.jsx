@@ -2,9 +2,9 @@ import React from 'react'
 
 const Profile = ({ data }) => {
     return (
-        <div className='flex flex-col items-center shadow-md pb-8 m-1'>
-            <div className='relative w-full'>
-                <div className='bg-slate-800 h-[10rem] absolute top-0 left-0 w-full z-[-1]'></div>
+        <div className='flex flex-col items-center shadow-md pb-8 m-1 border border-slate-100 rounded-xl'>
+            <div className='relative w-full rounded-t-xl'>
+                <div className='bg-slate-800 h-[10rem] absolute top-0 left-0 w-full z-[-1] rounded-t-xl'></div>
                 <div className='shadow-md border-8 border-green-400 rounded-full p-1 m-auto bg-slate-50 w-4/5 mt-8'>
                     <img className='rounded-full' src="/profile.jpg" alt="" />
                 </div>

@@ -2,6 +2,7 @@
     "profile": {
         "name_vi": "Phạm Thành Phương",
         "name_en": "Phuong Pham Thanh",
+        "title": "Web developer | IT engineer",
         "location": {
             "address": "227 Ngọc Lâm",
             "city": "Ha Noi",
@@ -138,14 +139,14 @@
             "self_rate": 2
         },
         {
-            "catalog": "Databases",
-            "object": "SQL databases",
+            "catalog": "Development",
+            "object": "Databases",
             "experienced_with": [
                 "mySQL",
                 "MSSQL",
                 "postgreSQL"
             ],
-            "detail": "Query, join tables...",
+            "detail": "Mostly SQL databases, query, join tables...",
             "experience_from": "2022",
             "disruption": 0,
             "self_rate": 4
@@ -183,7 +184,7 @@
                 "Laravel"
             ],
             "object": "PHP",
-            "detail": "",
+            "detail": "Worked on Laravel several projects",
             "experience_from": "2022",
             "disruption": 0,
             "self_rate": 4
@@ -212,7 +213,7 @@
             "self_rate": 1
         },
         {
-            "catalog": "Backup solution",
+            "catalog": "System Administration - Backup solution",
             "experienced_with": [
                 "HPE Data Protector",
                 "Veeam",
@@ -226,7 +227,7 @@
             "self_rate": 5
         },
         {
-            "catalog": "Operating System",
+            "catalog": "System Administration - Operating System",
             "experienced_with": [
                 "Windows 7",
                 "Window 10",
@@ -241,15 +242,15 @@
             "self_rate": 4
         },
         {
-            "catalog": "Operating System",
+            "catalog": "System Administration - Operating System",
             "experienced_with": [
-                "Active directory",
-                "VSS integration",
-                "DNS server",
-                "DHCP server",
+                "AD",
+                "VSS",
+                "DNS",
+                "DHCP",
                 "File Server",
-                "IIS - Web Service",
-                "WDS - Windows Deployment Service"
+                "IIS",
+                "WDS"
             ],
             "object": "Windows server",
             "detail": "Manage, monitor,troubleshoot and basic config",
@@ -258,19 +259,19 @@
             "self_rate": 3
         },
         {
-            "catalog": "Networking",
+            "catalog": "System Administration - Networking",
             "experienced_with": [
                 "Cisco (AP, switch and router)",
                 "Dell Router"
             ],
             "object": "Networking",
-            "detail": "intermediate level \nMigrate, maintain, replace, upgrade and manage Cisco device such as router, core-switch, access-switch ,access point....",
+            "detail": "Intermediate level \nMigrate, maintain, replace, upgrade and manage Cisco device such as router, core-switch, access-switch ,access point....",
             "experience_from": "2015",
             "disruption": 0,
             "self_rate": 4
         },
         {
-            "catalog": "Networking",
+            "catalog": "System Administration - Networking",
             "experienced_with": [
                 "Hipath",
                 "PABX system"
@@ -282,18 +283,18 @@
             "self_rate": 2
         },
         {
-            "catalog": "Networking",
+            "catalog": "System Administration - Networking",
             "experienced_with": [
                 "Sipass"
             ],
             "object": "Security access system",
-            "detail": "Deep understanding of access security level, fallback system, fire-alarm... Manage access level, access entry, maintain software and hardware system.",
+            "detail": "Deep understanding of access security level, fallback system, fire-alarm... \nManage access level, access entry, maintain software and hardware system.",
             "experience_from": "2016",
             "disruption": 1,
             "self_rate": 2
         },
         {
-            "catalog": "Virtual environment",
+            "catalog": "System Administration - Virtualization",
             "experienced_with": [
                 "VMware",
                 "Hyper-V",
@@ -302,6 +303,17 @@
             "object": "Virtual machine",
             "detail": "Create, manage VM and virtual switch",
             "experience_from": "2016",
+            "disruption": 1,
+            "self_rate": 2
+        },
+        {
+            "catalog": "System Administration - Virtualization",
+            "experienced_with": [
+                "Docker"
+            ],
+            "object": "Container",
+            "detail": "Create, manage in small scale",
+            "experience_from": "2023",
             "disruption": 1,
             "self_rate": 2
         },
@@ -336,7 +348,7 @@
             "catalog": "Others",
             "experienced_with": [],
             "object": "Customer support skills",
-            "detail": "Understand concept of empathy \nTicket system, deal with escalation... \ngood understanding of Support environment's concept",
+            "detail": "Understand concept of empathy \nTicket system, deal with escalation... \nGood understanding of Support environment's concept \nCustomer education",
             "experience_from": "",
             "disruption": 0,
             "self_rate": 3

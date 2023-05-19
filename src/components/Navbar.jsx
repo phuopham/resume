@@ -9,7 +9,7 @@ const Navbar = () => {
                     <button className='text-bold uppercase px-3 rounded-full bg-green-400 font-semibold text-slate-900' onClick={() => window.print()}>Print</button>
                 </div>
             </div>
-            <div className="m-4 p-4"></div>
+            <div className="m-3 p-3"></div>
         </>
     )
 }
