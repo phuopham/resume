@@ -2,7 +2,7 @@ import React from 'react'
 
 const Skills = ({ data }) => {
     const progressBar = (self_rate, catalog) => {
-        if (self_rate < 5) return `w-${self_rate}/5 bg-slate-900 absolute top-0 left-0 h-full mix-blend-multiply rounded-xl z-[-1]`
+        if (self_rate < 6) return `w-${self_rate}/6 bg-slate-900 absolute top-0 left-0 h-full mix-blend-multiply rounded-xl z-[-1]`
         return `w-full bg-slate-900 absolute top-0 left-0 h-full mix-blend-multiply rounded-xl z-[-1]`
     }
     const sortedData = data.sort((a, b) => a.catalog.localeCompare(b.catalog))
@@ -26,11 +26,11 @@ const Skills = ({ data }) => {
                         <div className='text-end font-semibold rounded-full px-2 bg-green-400'>{key}</div>
                         {groupedData[key].map((skill, index) => (
                             <div key={index} className='text-green-400  m-1 px-2'>
-                                <div className='relative'>
-                                    <span className=' ps-2 uppercase font-semibold'>
+                                <div className='relative ps-2 pe-8'>
+                                    <span className='uppercase font-semibold'>
                                         {skill.object + " "}
                                     </span>
-                                    {skill.experienced_with != '' && <span className='text-sm text-slate-500'>- {skill.experienced_with.map((item, key) => key == 0 ? item : (', ' + item))} ...</span>}
+                                    {skill.experienced_with != '' && <span className='text-sm text-slate-300 mix-blend-exclusion'>- {skill.experienced_with.map((item, key) => key == 0 ? item : (', ' + item))} ...</span>}
                                     <div className={progressBar(skill.self_rate, skill.catalog)}></div>
                                     <div className='z-[-2] h-full bg-slate-200 w-full absolute top-0 left-0 right-0 rounded-xl text-end px-2'>{skill.self_rate}/5</div>
                                 </div>

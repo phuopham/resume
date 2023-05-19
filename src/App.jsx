@@ -6,6 +6,7 @@ import Navbar from './components/Navbar'
 import Profile from './components/Profile'
 import Skills from './components/Skills'
 import Target from './components/Target'
+import Career from './components/Career'
 
 function App() {
   const [resume, setResume] = useState({})
@@ -24,6 +25,9 @@ function App() {
         {resume.profile && <Profile data={resume.profile} />}
         <div className='col-span-2'>
           {resume.target && <Target data={resume.target} />}
+          {resume.career && <Career data={resume.career} />}
+        </div>
+        <div className='col-span-2'>
         </div>
         <div className='col-span-2'>
           {resume.skills && <Skills data={resume.skills} />}
