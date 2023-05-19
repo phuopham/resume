@@ -15,7 +15,7 @@ const Profile = ({ data }) => {
             <div className='mt-3 font-bold'>{data.tel}</div>
             <div className='font-bold'>{data.email}</div>
             <a href={data.github}>{data.github}</a>
-            <a href="" className='text-red-800'>Link linkedin</a>
+            <a href={data.linkedin} >{data.linkedin}</a>
         </div>
     )
 }

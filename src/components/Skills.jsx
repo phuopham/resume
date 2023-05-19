@@ -24,9 +24,9 @@ const Skills = ({ data }) => {
                     <li key={key}>
                         <div className='text-end font-semibold rounded-full px-2 bg-green-400'>{key}</div>
                         {groupedData[key].map((skill, index) => (
-                            <div key={index} className='text-green-400  m-1 px-2'>
+                            <div key={index} className=' m-1 px-2'>
                                 <div className='relative ps-2 pe-8'>
-                                    <span className='uppercase font-semibold'>
+                                    <span className='text-green-400 uppercase font-semibold'>
                                         {skill.object + " "}
                                     </span>
                                     {skill.experienced_with != '' && <span className='text-sm text-slate-300 mix-blend-exclusion'>- {skill.experienced_with.map((item, key) => key == 0 ? item : (', ' + item))} ...</span>}

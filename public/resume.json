@@ -13,6 +13,7 @@
         "dob": "1989-09-08",
         "email": "thanhphuong89@gmail.com",
         "github": "https://github.com/phuopham",
+        "linkedin": "https://www.linkedin.com/in/phuong89/",
         "others": [
             {
                 "status": "married",
@@ -51,7 +52,7 @@
                 "Monthly HW audit activity",
                 "Coordinate with vendors to maintain, upgrade or troubleshoot services",
                 "Troubleshoot, analyze and handle technical issue via Service-Now",
-                "and report problem to direct manager",
+                "Report to direct manager",
                 "Do assigned task from direct supervisor and manager",
                 "Do commercial tasks like: get specs, get quotation, PR/PO..."
             ],
@@ -72,7 +73,7 @@
                 "Support printers, doors (Sipass) , telco... system",
                 "Coordinate with vendors to maintain, upgrade or troubleshoot services",
                 "Troubleshoot, analyze and handle technical issue via Service-Now",
-                "and report problem to direct manager",
+                "Report to direct manager",
                 "Do assigned task from direct supervisor and manager",
                 "Do commercial tasks like: specify specs, PR ...",
                 "Involved in organizing company events (assist CC/CG in technical tasks)"
@@ -133,7 +134,7 @@
             "catalog": "Development - archived",
             "experienced_with": [],
             "object": "Fundamental C",
-            "detail": "for logic and problem solving skill",
+            "detail": "For logic and problem solving skill",
             "experience_from": "2022",
             "disruption": 1,
             "self_rate": 2
@@ -207,7 +208,7 @@
                 ".NET"
             ],
             "object": "C#",
-            "detail": "fundamental",
+            "detail": "Fundamental",
             "experience_from": "2022",
             "disruption": 0,
             "self_rate": 1
@@ -321,7 +322,7 @@
             "catalog": "Others",
             "experienced_with": [],
             "object": "Troubleshooting skills",
-            "detail": "Problem understanding \nProblem analysis, replicate the problem, workaround... \ndebug analysis",
+            "detail": "Problem understanding \nProblem analysis, replicate the problem, workaround... \nDebug analysis",
             "experience_from": "",
             "disruption": 0,
             "self_rate": 5
@@ -401,7 +402,7 @@
         },
         {
             "object": "German",
-            "detail": "equivalent to C level",
+            "detail": "Equivalent to C level",
             "experience_from": "2008",
             "disruption": 8,
             "self_rate": 3
@@ -410,7 +411,7 @@
     "portfolio": [
         {
             "start_date": "2023",
-            "status": "completed",
+            "status": "Completed",
             "period": "1 week",
             "project": "CV",
             "link": "https://github.com/phuopham/resume",
@@ -424,7 +425,7 @@
         },
         {
             "start_date": "2023",
-            "status": "completed",
+            "status": "Completed",
             "period": "1 week",
             "project": "MiniOB",
             "link": "https://github.com/phuopham/miniOB",
@@ -439,7 +440,7 @@
         },
         {
             "start_date": "2023",
-            "status": "on-going",
+            "status": "On-going",
             "period": "2 weeks",
             "project": "Sport league management API",
             "link": "https://github.com/phuopham/q-sport-league-management",
@@ -453,7 +454,7 @@
         },
         {
             "start_date": "2023",
-            "status": "on-going",
+            "status": "On-going",
             "period": "2 weeks",
             "project": "Sport league management front-end",
             "link": "https://github.com/phuopham/league-management",
@@ -468,9 +469,9 @@
         },
         {
             "start_date": "2022",
-            "status": "completed",
+            "status": "Completed",
             "period": "2 weeks",
-            "project": "VieSpa API - Spa management system - 2022",
+            "project": "VieSpa API - Spa management system",
             "link": "https://github.com/phuopham/viespa",
             "description": "Spa management system to demonstrate Java and Springboot skills: OOP development, data JPA, DTO",
             "catalog": [
@@ -481,9 +482,9 @@
         },
         {
             "start_date": "2022",
-            "status": "completed",
+            "status": "Completed",
             "period": "1 month",
-            "project": "Clarin - Cosmetic online store - 2022",
+            "project": "Clarin - Cosmetic online store",
             "link": "https://github.com/phuopham/Firstproject",
             "description": "1st project at Aptech. Team size of 4. Demonstrate what we learnt in first semester",
             "catalog": [
@@ -495,9 +496,9 @@
         },
         {
             "start_date": "2023",
-            "status": "completed",
+            "status": "Completed",
             "period": "1 month",
-            "project": "VieSpa - Spa management system - 2022",
+            "project": "VieSpa - Spa management system",
             "link": "https://github.com/ngtrongduc106/vieSpa",
             "description": "2nd project at Aptech. \nTeam size of 4. \nExplore desktop app with essential features",
             "catalog": [
@@ -508,7 +509,7 @@
         },
         {
             "start_date": "2023",
-            "status": "completed",
+            "status": "Completed",
             "period": "3 days",
             "project": "eStudies - Techwiz2022",
             "link": "https://github.com/phuopham/Techwiz2022",
@@ -521,7 +522,7 @@
                 "Bootstrap5",
                 "AngularJS - deprecated"
             ],
-            "award": "seeding round"
+            "award": "Seeding round"
         }
     ]
 }

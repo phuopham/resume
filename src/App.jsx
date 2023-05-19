@@ -23,10 +23,12 @@ function App() {
     <div className='max-w-[1280px] m-auto'>
       <Navbar />
       <div className='md:grid md:grid-cols-3'>
-        <div>
+        <div className='sm:grid grid-cols-2 md:block'>
           {resume.profile && <Profile data={resume.profile} />}
-          {resume.languages && <Languages data={resume.languages} />}
-          {resume.education && <Education data={resume.education} />}
+          <div>
+            {resume.languages && <Languages data={resume.languages} />}
+            {resume.education && <Education data={resume.education} />}
+          </div>
         </div>
         <div className='col-span-2'>
           {resume.target && <Target data={resume.target} />}
@@ -35,10 +37,15 @@ function App() {
         <div className='col-span-2'>
           {resume.skills && <Skills data={resume.skills} />}
         </div>
-        <div className='col-span-3'>
+        <div>
           {resume.portfolio && <Portfolio data={resume.portfolio} />}
         </div>
       </div>
+      <div className='hidden w-1/6'></div>
+      <div className='hidden w-2/6'></div>
+      <div className='hidden w-3/6'></div>
+      <div className='hidden w-4/6'></div>
+      <div className='hidden w-5/6'></div>
     </div >
   )
 }

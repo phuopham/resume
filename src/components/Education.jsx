@@ -9,7 +9,7 @@ const Education = ({ data }) => {
             <ul className='flex gap-2 flex-wrap p-2'>
                 <li>
                     <div className='rounded-t-xl text-slate-800 bg-green-400 px-2 font-semibold uppercase'>{data[0].institute}</div>
-                    <div className='rounded-b-xl text-slate-50 bg-slate-800 px-2 font-light'>{data[0].major}</div>
+                    <div className='rounded-b-xl text-slate-50 bg-slate-800 px-2'>{data[0].major}</div>
                 </li>
                 <li>
                     <div className='rounded-t-xl text-slate-800 bg-green-400 px-2 font-semibold uppercase'>{data[1].institute}</div>
