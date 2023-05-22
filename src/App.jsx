@@ -8,6 +8,7 @@ import Career from './components/Career'
 import Education from './components/Education'
 import Languages from './components/Languages'
 import Portfolio from './components/Portfolio'
+import Others from './components/Others'
 
 function App() {
   const [resume, setResume] = useState({})
@@ -28,6 +29,7 @@ function App() {
           <div>
             {resume.languages && <Languages data={resume.languages} />}
             {resume.education && <Education data={resume.education} />}
+            {resume.profile && <Others data={resume.profile} />}
           </div>
         </div>
         <div className='col-span-2'>
