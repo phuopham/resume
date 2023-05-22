@@ -14,25 +14,24 @@
         "email": "thanhphuong89@gmail.com",
         "github": "https://github.com/phuopham",
         "linkedin": "https://www.linkedin.com/in/phuong89/",
-        "others": [
-            {
-                "status": "married",
-                "children": [
-                    {
-                        "gender": "female",
-                        "born": 2015
-                    },
-                    {
-                        "gender": "female",
-                        "born": 2019
-                    }
-                ]
-            }
-        ],
+        "others": {
+            "status": "married",
+            "children": [
+                {
+                    "gender": "female",
+                    "born": 2015
+                },
+                {
+                    "gender": "female",
+                    "born": 2019
+                }
+            ]
+        },
         "interests": [
             "Tech in common",
             "Development",
-            "traveling"
+            "Traveling",
+            "board game"
         ]
     },
     "target": {
@@ -357,14 +356,12 @@
     ],
     "education": [
         {
-            "from": "2021",
-            "to": "2022",
+            "to": "2023",
             "status": "graduated",
             "institute": "Aptech University",
             "major": "DISM (Front-end development)"
         },
         {
-            "from": "2009",
             "to": "2012",
             "status": "under-graduate",
             "institute": "TU Darmstadt - Germany",
