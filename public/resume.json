@@ -41,6 +41,24 @@
         {
             "from": "Mar 2022",
             "to": "now",
+            "company": "Freelancer",
+            "title": "IT freelancer",
+            "detail": [
+                "Clients: Dextermind Techologies ltd, Brilliant Tech Service ltd, SSE Global Technologies Inc....",
+                "Creating responsive HTML/react landing pages with provided design",
+                "Support setup conference system",
+                "Replace switch, routers",
+                "Support SDWAN migration",
+                "Build simple website with customer's idea",
+                "..."
+            ],
+            "achievement": [
+                "Good feedbacks from clients"
+            ]
+        },
+        {
+            "from": "Mar 2022",
+            "to": "now",
             "company": "Qualcomm Vietnam",
             "title": "IT engineer",
             "detail": [
