@@ -19,6 +19,18 @@ const Career = ({ data }) => {
                             {detail}
                         </li>
                     ))}</ul>
+                    {job.achievement && <div>
+                        <div className='bg-green-400 rounded-t-xl px-2'>
+                            Achievement
+                        </div>
+                        <ul className=' bg-slate-200 rounded-b-xl p-2'>
+                            {job.achievement.map((item, key) => (
+                                <li key={key} className='list-disc ms-7'>
+                                    {item}
+                                </li>
+                            ))}
+                        </ul>
+                    </div>}
                 </li>
             ))}
         </ul >

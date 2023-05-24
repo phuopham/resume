@@ -7,9 +7,9 @@ const Portfolio = ({ data }) => {
             <div className='uppercase text-xl font-bold text-green-400 bg-slate-800 py-7 text-center rounded-t-xl ' >
                 Portfolio
             </div >
-            <div className='p-2 gap-2 grid-cols-3'>
+            <div className='px-2'>
                 {data.map((proj, key) => (
-                    <div key={key} className=' my-2 md:my-0 flex flex-col content-between border border-slate-200 rounded-xl'>
+                    <div key={key} className=' my-2 flex flex-col content-between border border-slate-200 rounded-xl'>
                         <div className='rounded-t-xl px-2 bg-green-400 font-bold '>{proj.project}</div>
 
                         <div className='bg-slate-200 flex flex-wrap gap-1 p-2 pb-0'>
