@@ -57,6 +57,14 @@
             ],
             "achievement": [
                 "Successfully sign 3 year contract with the company after prober time"
+            ],
+            "tools": [
+                "Service-now",
+                "Concerto",
+                "Jenkins",
+                "Splunk",
+                "Office365",
+                "F5 BIG-IP Edge Client"
             ]
         },
         {
@@ -76,6 +84,11 @@
             ],
             "achievement": [
                 "Good feedbacks from clients"
+            ],
+            "tools": [
+                "Service-now",
+                "MS Teams",
+                "Networking device tools"
             ]
         },
         {
@@ -99,6 +112,18 @@
             "achievement": [
                 "Met company highest expectation 2 years in a row",
                 "\"5 years of Service with Siemens\" award"
+            ],
+            "tools": [
+                "Service-now",
+                "Office365",
+                "Sharepoint",
+                "PABX",
+                "Trendmicro Web security",
+                "Hipath",
+                "Comwin",
+                "Sipass",
+                "Trendmicro Officescan",
+                "URA 2.0"
             ]
         },
         {
@@ -118,6 +143,19 @@
             "achievement": [
                 "Successfully handle over 1000 cases in less than 3 years",
                 "met company highest expectation every year"
+            ],
+            "tools": [
+                "HP Service Manager",
+                "HPE Data Protector",
+                "Internal debug tool",
+                "PostgreSQL",
+                "Hyper-V",
+                "VMWare ESXi",
+                "Oracle SAP",
+                "StoreOnce",
+                "MS Sharepoint",
+                "MS Exchange",
+                "..."
             ]
         }
     ],
