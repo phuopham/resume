@@ -50,6 +50,7 @@
                 "Cisco IP phone administration",
                 "Monthly HW audit activity",
                 "Coordinate with vendors to maintain, upgrade or troubleshoot services",
+                "Involved in global projects: MS Teams migration project, Windows11 role-out project, Server replacement projects...",
                 "Troubleshoot, analyze and handle technical issue via Service-Now",
                 "Report to direct manager",
                 "Do assigned task from direct supervisor and manager",
@@ -59,12 +60,16 @@
                 "Successfully sign 3 year contract with the company after prober time"
             ],
             "tools": [
+                "Windows 10/11",
+                "Windows Server 2016",
+                "AD",
+                "Ubuntu 18/20/22",
                 "Service-now",
+                "Office365",
                 "Concerto",
                 "Jenkins",
                 "Splunk",
-                "Office365",
-                "F5 BIG-IP Edge Client"
+                "CyberArk PAM"
             ]
         },
         {
@@ -102,6 +107,8 @@
                 "Administration of Microsoft servers, proxy server, ...",
                 "Administration of backup solution. Both hardware (tape library and file server) and Veritas software",
                 "Support printers, doors (Sipass) , telco... system",
+                "Involved in global projects: Windows10 migration project, SDWAN migration project, MS Office365 migration project, Cisco switch migration project, servers replacement projects, office expansion project...",
+                "Issue, replace PKI smartcard for internal user including manage doors access",
                 "Coordinate with vendors to maintain, upgrade or troubleshoot services",
                 "Troubleshoot, analyze and handle technical issue via Service-Now",
                 "Report to direct manager",
@@ -114,6 +121,12 @@
                 "\"5 years of Service with Siemens\" award"
             ],
             "tools": [
+                "Windows 10",
+                "Windows Server 2008/2012/2016",
+                "AD",
+                "DHCP",
+                "ISS",
+                "MSSQL",
                 "Service-now",
                 "Office365",
                 "Sharepoint",
@@ -122,7 +135,9 @@
                 "Hipath",
                 "Comwin",
                 "Sipass",
+                "Veritas Backup Exec",
                 "Trendmicro Officescan",
+                "PKI 2.0",
                 "URA 2.0"
             ]
         },
@@ -145,6 +160,9 @@
                 "met company highest expectation every year"
             ],
             "tools": [
+                "Windows 10",
+                "CentOS",
+                "Windows Server 2003/2008",
                 "HP Service Manager",
                 "HPE Data Protector",
                 "Internal debug tool",
