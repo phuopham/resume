@@ -91,6 +91,10 @@
                 "Good feedbacks from clients"
             ],
             "tools": [
+                "HTML5",
+                "CSS/BootstrapCSS3,4,5 /tailwindCSS",
+                "PHP/Laravel 7,9,10",
+                "ReactJS",
                 "Service-now",
                 "MS Teams",
                 "Networking device tools"
