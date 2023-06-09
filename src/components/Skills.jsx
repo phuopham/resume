@@ -1,11 +1,10 @@
 import React from 'react'
 
 const Skills = ({ data }) => {
-    const progressBar = (self_rate, catalog) => {
+    const progressBar = (self_rate) => {
         if (self_rate < 6) return `w-${self_rate}/6 bg-slate-900 absolute top-0 left-0 h-full mix-blend-multiply rounded-xl z-[-1]`
         return `w-full bg-slate-900 absolute top-0 left-0 h-full mix-blend-multiply rounded-xl z-[-1]`
     }
-    const sortedData = data.sort((a, b) => a.catalog.localeCompare(b.catalog))
     const groupedData = data.reduce((acc, obj) => {
         const key = obj['catalog'];
         if (!acc[key]) {
