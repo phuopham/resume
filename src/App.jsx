@@ -28,19 +28,17 @@ function App() {
           {resume.profile && <Profile data={resume.profile} />}
           <div>
             {resume.languages && <Languages data={resume.languages} />}
-            {resume.education && <Education data={resume.education} />}
+            {resume.education && resume.certificates && <Education education={resume.education} certificates={resume.certificates} />}
             {resume.profile && <Others data={resume.profile} />}
+          </div>
+          <div>
+            {resume.portfolio && <Portfolio data={resume.portfolio} />}
           </div>
         </div>
         <div className='col-span-2'>
           {resume.target && <Target data={resume.target} />}
           {resume.career && <Career data={resume.career} />}
-        </div>
-        <div className='col-span-2'>
           {resume.skills && <Skills data={resume.skills} />}
-        </div>
-        <div>
-          {resume.portfolio && <Portfolio data={resume.portfolio} />}
         </div>
       </div>
       <div className='hidden w-1/6'></div>

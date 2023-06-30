@@ -436,6 +436,7 @@
     ],
     "education": [
         {
+            "from": "2021",
             "to": "2023",
             "status": "graduated",
             "institute": "Aptech University",
@@ -453,13 +454,18 @@
             "status": "graduated",
             "institute": "Studienkollege Hannover",
             "major": "German - Equal C level"
+        }
+    ],
+    "certificates": [
+        {
+            "year": "2023",
+            "field": "Cisco Cerified Network Associate - CCNA",
+            "shortname": "CCNA"
         },
         {
-            "from": "2008",
-            "to": "2008",
-            "status": "graduated",
-            "institute": "Goethe Institute - Hanoi",
-            "major": "German - B1 certificate"
+            "year": "2008",
+            "field": "Goethe-Zertifikat Zertifikat Deutsch - B1",
+            "shortname": "German B1"
         }
     ],
     "languages": [
@@ -481,7 +487,7 @@
             "object": "German",
             "detail": "Equivalent to C level",
             "experience_from": "2008",
-            "disruption": 8,
+            "disruption": 5,
             "self_rate": 3
         }
     ],
