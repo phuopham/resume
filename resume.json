@@ -439,7 +439,7 @@
             "to": "2023",
             "status": "graduated",
             "institute": "Aptech University",
-            "major": "DISM (Front-end development)"
+            "major": "DISM (Diploma in Information Systems Management)"
         },
         {
             "to": "2012",
@@ -464,7 +464,12 @@
         {
             "year": "2008",
             "field": "Goethe-Zertifikat Zertifikat Deutsch - B1",
-            "shortname": "German B1"
+            "shortname": "German - B1"
+        },
+        {
+            "year": "2009",
+            "field": "German - Studienkollege Hannover",
+            "shortname": "German - C"
         }
     ],
     "languages": [
