@@ -15,9 +15,9 @@ const Profile = ({ data }) => {
             <div className='font-bold uppercase'>{data.title || 'Web developer | IT engineer'}</div>
             <div className='mt-3 font-bold'>{data.tel}</div>
             <div className='font-bold'><a href={`mailto:${data.email}`}>{data.email}</a></div>
-            <div className='font-italic'>{data.location.city} - {data.location.countryCode == 'VN' ? 'Vietnam' : data.location.countryCode}</div>
-            <a href={data.github}>{data.github}</a>
-            <a href={data.linkedin} >{data.linkedin}</a>
+            <div className='italic'>{data.location.city} - {data.location.countryCode == 'VN' ? 'Vietnam' : data.location.countryCode}</div>
+            <a className='text-sm' href={data.github}>{data.github}</a>
+            <a className='text-sm' href={data.linkedin} >{data.linkedin}</a>
         </div>
     )
 }
