@@ -35,7 +35,7 @@
         ]
     },
     "target": {
-        "current": "become a cloud-based Dev-Ops engineer"
+        "current": "strengthen development skills and become a cloud-based Dev-Ops engineer"
     },
     "career": [
         {
@@ -46,13 +46,11 @@
             "detail": [
                 "End-user support including onboard new-comer and process post-termination",
                 "Ensure compliance with company standard policies and security guidelines",
-                "Administer printers and Cisco IP phones",
-                "Manage IT assets ",
-                "Coordinate with vendors to maintain, upgrade and troubleshoot services",
+                "Train and share knowledge across the teams and BUs",
+                "Administer IT infrastructure and services (AD, printers, IP phone, IT assets...)",
+                "Manage Vietnam's IT budget",
                 "Participate in global projects: MS Teams migration project, Windows11 role-out project, Server replacement projects...",
                 "Troubleshoot, analyze and resolve technical issues via Service-Now",
-                "Report to direct manager",
-                "Do assigned task from direct supervisor and manager",
                 "Perform commercial tasks like: obtain specification, managing purchase requests/orders..."
             ],
             "achievement": [
@@ -90,6 +88,7 @@
                 "Good feedbacks from clients"
             ],
             "tools": [
+                "Weekend only",
                 "HTML5",
                 "CSS/BootstrapCSS3,4,5 /tailwindCSS",
                 "PHP/Laravel 7,9,10",
@@ -106,12 +105,9 @@
             "title": "IT Operations Professional",
             "detail": [
                 "End-User support including documentation",
-                "Administer IT infrastructure (networking, servers and related services(AD,DHCP,backup solution...), printers, doors system and telco)",
+                "Administer IT infrastructure and services (networking, servers and related services(AD,DHCP,backup solution...),PKI smartcards, printers, doors system and telco...)",
                 "Participate in global projects: Windows10 migration project, SDWAN migration project, MS Office365 migration project, Cisco switch migration project, servers replacement projects, office expansion/renovation project...",
-                "Manage PKI smartcard for internal user including manage doors access",
-                "Coordinate with vendors to maintain, upgrade or troubleshoot services",
                 "Troubleshoot, analyze and resolve technical issue via Service-Now",
-                "Complete task assigned by direct supervisor and manager",
                 "Perform commercial tasks like: specify specs, PR ...",
                 "Involved in organizing company events (assist CC/CG in technical tasks)"
             ],
