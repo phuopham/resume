@@ -9,6 +9,7 @@ import Education from './components/Education'
 import Languages from './components/Languages'
 import Portfolio from './components/Portfolio'
 import Others from './components/Others'
+import Skill2 from './components/Skill2'
 
 function App() {
   const [resume, setResume] = useState({})
@@ -28,17 +29,23 @@ function App() {
           {resume.profile && <Profile data={resume.profile} />}
           <div>
             {resume.languages && <Languages data={resume.languages} />}
-            {resume.education && resume.certificates && <Education education={resume.education} certificates={resume.certificates} />}
+            <div className='hidden md:block'>
+              {resume.skills && <Skill2 data={resume.skills} />}
+            </div>
             {resume.profile && <Others data={resume.profile} />}
           </div>
-          <div>
+          {/* <div>
             {resume.portfolio && <Portfolio data={resume.portfolio} />}
-          </div>
+          </div> */}
         </div>
         <div className='col-span-2'>
           {resume.target && <Target data={resume.target} />}
           {resume.career && <Career data={resume.career} />}
-          {resume.skills && <Skills data={resume.skills} />}
+          <div className='block md:hidden'>
+            {resume.skills && <Skill2 data={resume.skills} />}
+          </div>
+          {resume.education && resume.certificates && <Education education={resume.education} certificates={resume.certificates} />}
+          {/* {resume.skills && <Skills data={resume.skills} />} */}
         </div>
       </div>
       <div className='hidden w-1/6'></div>
