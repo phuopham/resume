@@ -22,8 +22,7 @@ function App() {
     })
   }, [])
   return (
-    <div className='max-w-[1280px] m-auto'>
-      <Navbar />
+    <>
       <div className='md:grid md:grid-cols-3'>
         <div className='sm:grid grid-cols-2 md:block'>
           {resume.profile && <Profile data={resume.profile} />}
@@ -53,7 +52,7 @@ function App() {
       <div className='hidden w-3/6'></div>
       <div className='hidden w-4/6'></div>
       <div className='hidden w-5/6'></div>
-    </div >
+    </ >
   )
 }
 
