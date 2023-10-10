@@ -1,13 +1,10 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
-import Navbar from './components/Navbar'
 import Profile from './components/Profile'
-import Skills from './components/Skills'
 import Target from './components/Target'
 import Career from './components/Career'
 import Education from './components/Education'
 import Languages from './components/Languages'
-import Portfolio from './components/Portfolio'
 import Others from './components/Others'
 import Skill2 from './components/Skill2'
 
