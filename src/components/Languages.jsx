@@ -10,10 +10,10 @@ const Languages = ({ data }) => {
                 {data.map((lang, key) => (
                     <li key={key}>
                         <div className='rounded-t-xl text-slate-800 font-semibold bg-green-400 px-2 uppercase'>{lang.object}</div>
-                        <div className={`${lang.experience_from == '' ? 'rounded-b-xl' : ''} bg-slate-200 px-2`}>{lang.detail}</div>
-                        {!lang.experience_from == '' && <div className='rounded-b-xl text-slate-50 bg-slate-800 p-2 flex flex-wrap items-start'>
+                        <div className={`rounded-b-xl bg-slate-200 px-2`}>{lang.detail}</div>
+                        {/* {!lang.experience_from == '' && <div className='rounded-b-xl text-slate-50 bg-slate-800 p-2 flex flex-wrap items-start'>
                             <div className='px-2 text-sm bg-green-400 text-slate-50 rounded-full'>{lang.experience_from}</div>
-                        </div>}
+                        </div>} */}
                     </li>
                 ))}
             </ul>
