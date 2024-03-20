@@ -31,7 +31,7 @@
             "Tech in common",
             "Development",
             "Traveling",
-            "board game"
+            "Board game"
         ]
     },
     "target": {
@@ -70,7 +70,9 @@
                 "Jenkins",
                 "Ansible",
                 "Splunk",
-                "CyberArk PAM"
+                "CyberArk PAM",
+                "Nextthink",
+                "Networking"
             ]
         },
         {
@@ -99,7 +101,27 @@
                 "ReactJS",
                 "Service-now",
                 "MS Teams",
-                "Networking device tools"
+                "Networking"
+            ]
+        },
+        {
+            "from": "Feb 2024",
+            "to": "now",
+            "company": "AXIOM technologies",
+            "title": "freelance IT Engineer",
+            "detail": [
+                "Customer service - EUC-FTE L2",
+                "Complete assigned tasks on time"
+            ],
+            "achievement": [
+                "Regularly receive good feedback from huge bank"
+            ],
+            "tools": [
+                "service-now",
+                "Gsuit",
+                "Networking",
+                "Windows10",
+                "Linux"
             ]
         },
         {
