@@ -515,8 +515,18 @@
     ],
     "certificates": [
         {
+            "year": "2024",
+            "field": "Certificate of completion: AWS Solution Architect Associate - BKCAD",
+            "shortname": "AWS SAA - BKCAD"
+        },
+        {
+            "year": "2024",
+            "field": "Certificate of completion: ITIL v4 - Apex Global",
+            "shortname": "ITIL v4 - Apex Global"
+        },
+        {
             "year": "2023",
-            "field": "Devops fundamental - Tel4VN",
+            "field": "Certificate of completion: Devops fundamental - Tel4VN",
             "shortname": "DevOps fundamental - Tel4VN"
         },
         {
