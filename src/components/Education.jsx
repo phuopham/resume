@@ -15,9 +15,6 @@ const Education = ({ education, certificates }) => {
                         <div className='rounded-full bg-green-400 px-2'>
                             {education[0].to}
                         </div>
-                        <div className='rounded-full bg-green-400 px-2'>
-                            {education[0].status}
-                        </div>
                         <div className='rounded-full bg-green-400 px-2'>distinction</div>
                     </div>
                 </li>
@@ -27,9 +24,6 @@ const Education = ({ education, certificates }) => {
                     <div className='rounded-b-xl bg-slate-800 p-2 flex flex-wrap gap-1 items-start text-sm'>
                         <div className='rounded-full bg-green-400 px-2'>
                             {education[1].to}
-                        </div>
-                        <div className='rounded-full bg-green-400 px-2'>
-                            {education[1].status}
                         </div>
                     </div>
                 </li>

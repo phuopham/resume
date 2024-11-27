@@ -6,7 +6,7 @@ const Target = ({ data }) => {
             <div className='uppercase text-xl text-green-400 font-bold'>
                 My current target
             </div>
-            <div className='text-slate-50'>
+            <div className='text-slate-50 text-center'>
                 {data.current}
             </div>
         </div>

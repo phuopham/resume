@@ -18,6 +18,7 @@ const Profile = ({ data }) => {
             <div className='italic'>{data.location.city} - {data.location.countryCode == 'VN' ? 'Vietnam' : data.location.countryCode}</div>
             <a className='text-sm' href={data.github}>{data.github}</a>
             <a className='text-sm' href={data.linkedin} >{data.linkedin}</a>
+
         </div>
     )
 }

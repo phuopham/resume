@@ -20,14 +20,17 @@ function App() {
   }, [])
   return (
     <>
-      <div className='md:grid md:grid-cols-3'>
-        <div className='sm:grid grid-cols-2 md:block'>
+      <div className='grid grid-cols-3'>
+        <div className='block'>
           {resume.profile && <Profile data={resume.profile} />}
           <div>
+            {resume.target && <Target data={resume.target} />}
             {resume.languages && <Languages data={resume.languages} />}
             <div className='hidden md:block'>
-              {resume.skills && <Skill2 data={resume.skills} />}
+              {/* {resume.skills && <Skill2 data={resume.skills} />} */}
             </div>
+            {/* <div className='h-20'></div> */}
+            {resume.education && resume.certificates && <Education education={resume.education} certificates={resume.certificates} />}
             {resume.profile && <Others data={resume.profile} />}
           </div>
           {/* <div>
@@ -35,12 +38,10 @@ function App() {
           </div> */}
         </div>
         <div className='col-span-2'>
-          {resume.target && <Target data={resume.target} />}
           {resume.career && <Career data={resume.career} />}
           <div className='block md:hidden'>
-            {resume.skills && <Skill2 data={resume.skills} />}
+            {/* {resume.skills && <Skill2 data={resume.skills} />} */}
           </div>
-          {resume.education && resume.certificates && <Education education={resume.education} certificates={resume.certificates} />}
           {/* {resume.skills && <Skills data={resume.skills} />} */}
         </div>
       </div>

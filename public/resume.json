@@ -35,7 +35,7 @@
         ]
     },
     "target": {
-        "current": "strengthen Devops and development skills"
+        "current": "strengthen management and development skills along with applying DevOps mindset"
     },
     "career": [
         {
@@ -44,15 +44,16 @@
             "company": "Qualcomm Vietnam",
             "title": "IT engineer",
             "detail": [
-                "End-user support including onboard new-comer and process post-termination",
-                "Ensure compliance with company standard policies and security guidelines",
-                "Train and share knowledge across the teams and BUs",
+                "Scope: Vietnam (2 sites and a Lab at factory), and part of Taiwan",
                 "Administer IT infrastructure and services (AD, printers, IP phone, IT assets...)",
-                "Manage Vietnam's IT budget",
-                "Participate in global projects: MS Teams migration project, Windows11 role-out project, Server replacement projects...",
-                "Troubleshoot, analyze and resolve technical issues via Service-Now",
-                "Automate tasks with Ansible and Jenkins",
-                "Perform commercial tasks like: obtain specification, managing purchase requests/orders..."
+                "Contribute to global projects: MS Teams migration project, Windows11 role-out project, Server replacement projects...",
+                "End-user support including training and documentation",
+                "Ensure compliance with company standard policies and security guidelines",
+                "Acted as Junior Project Manager: Assisted in planning and executing multiple small projects. Collaborated with senior project managers, conducted research and analysis, participated in meetings to provide updates, and gathered requirements to ensure project alignment with customer expectations.",
+                "Manage Vietnam's IT budget. Save up to 10% IT service cost every year",
+                "Perform commercial tasks: obtain specification, managing purchase requests/orders...",
+                "Troubleshoot, analyze and resolve technical issues",
+                "..."
             ],
             "achievement": [
                 "The Safety Star 2023 Award",
@@ -60,7 +61,7 @@
             ],
             "tools": [
                 "Windows 10/11",
-                "Windows Server 2016",
+                "Windows Server 2016/2019",
                 "AD",
                 "Azure",
                 "Ubuntu 18/20/22",
@@ -71,8 +72,10 @@
                 "Ansible",
                 "Splunk",
                 "CyberArk PAM",
-                "Nextthink",
-                "Networking"
+                "Nexthink",
+                "Networking",
+                "Collaboration skills",
+                "Devops mindset"
             ]
         },
         {
@@ -91,6 +94,7 @@
                 "..."
             ],
             "achievement": [
+                "Completed 10+ projects",
                 "Good feedbacks from clients"
             ],
             "tools": [
@@ -111,17 +115,20 @@
             "title": "freelance IT Engineer",
             "detail": [
                 "Customer service - EUC-FTE L2",
-                "Complete assigned tasks on time"
+                "Complete assigned tasks on time",
+                "Support ITAM"
             ],
             "achievement": [
                 "Regularly receive good feedback from huge bank"
             ],
             "tools": [
-                "service-now",
                 "Gsuit",
                 "Networking",
                 "Windows10",
-                "Linux"
+                "Linux",
+                "ITAM",
+                "Service-now",
+                "Sharepoint Online"
             ]
         },
         {
@@ -130,15 +137,16 @@
             "company": "Siemens Limited Vietnam",
             "title": "IT Operations Professional",
             "detail": [
+                "Scope: Hanoi office",
                 "End-User support including documentation",
                 "Administer IT infrastructure and services (networking, servers and related services(AD,DHCP,backup solution...),PKI smartcards, printers, doors system and telco...)",
-                "Participate in global projects: Windows10 migration project, SDWAN migration project, MS Office365 migration project, Cisco switch migration project, servers replacement projects, office expansion/renovation project...",
+                "Contribute to global projects: Windows10 migration project, SDWAN migration project, MS Office365 migration project, Cisco switch migration project, servers replacement projects, office expansion/renovation projects...",
                 "Troubleshoot, analyze and resolve technical issue via Service-Now",
-                "Perform commercial tasks like: specify specs, PR ...",
+                "Perform commercial tasks like: obtain specification, PR ...",
                 "Involved in organizing company events (assist CC/CG in technical tasks)"
             ],
             "achievement": [
-                "Met company highest expectation 2 years in a row",
+                "Met company expectation 2 years in a row",
                 "\"5 years of Service with Siemens\" award"
             ],
             "tools": [
@@ -168,6 +176,7 @@
             "company": "Tek-Experts Co., Ltd",
             "title": "IT support engineer",
             "detail": [
+                "Scope: Customers in EMEA and APAC",
                 "Work in backup solution software support team - HP Data Protector",
                 "Keep in contact with customer in multiple languages",
                 "Understand customers' expectations and software problems",
@@ -181,6 +190,9 @@
                 "met company highest expectation every year"
             ],
             "tools": [
+                "Troubleshooting skills",
+                "Customer support skills",
+                "commication skills",
                 "Windows 10",
                 "CentOS",
                 "Windows Server 2003/2008",

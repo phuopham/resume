@@ -16,7 +16,7 @@ const Skill2 = ({ data }) => {
     return (
         <div className='shadow-md m-1 pb-7 border border-slate-100 rounded-xl'>
             <div className='uppercase text-xl font-bold text-green-400 bg-slate-800 py-7 text-center rounded-t-xl'>
-                Skills
+                Tools
             </div>
             <ul className='p-3'>
                 {Object.keys(groupedData).map((key) => (
