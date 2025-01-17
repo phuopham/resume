@@ -20,7 +20,7 @@ function App() {
   }, [])
   return (
     <>
-      <div className='md:grid md:grid-cols-3'>
+      <div className='md:grid grid-cols-3'>
         <div className='block'>
           {resume.profile && <Profile data={resume.profile} />}
           <div>

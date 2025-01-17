@@ -455,6 +455,42 @@
             "self_rate": 2
         },
         {
+            "catalog": "IT Service management",
+            "experienced_with": [],
+            "object": "Project management",
+            "detail": "",
+            "experience_from": "2023",
+            "disruption": 0,
+            "self_rate": 3
+        },
+        {
+            "catalog": "IT Service management",
+            "experienced_with": [],
+            "object": "Budget management",
+            "detail": "",
+            "experience_from": "2023",
+            "disruption": 0,
+            "self_rate": 3
+        },
+        {
+            "catalog": "IT Service management",
+            "experienced_with": [],
+            "object": "Leadership",
+            "detail": "",
+            "experience_from": "2023",
+            "disruption": 0,
+            "self_rate": 2
+        },
+        {
+            "catalog": "IT Service management",
+            "experienced_with": [],
+            "object": "Adaptability",
+            "detail": "",
+            "experience_from": "2023",
+            "disruption": 0,
+            "self_rate": 3
+        },
+        {
             "catalog": "Others",
             "experienced_with": [],
             "object": "Troubleshooting skills",
@@ -470,7 +506,7 @@
             "detail": "Good understanding of Agile workflow \nSharing knowledge",
             "experience_from": "",
             "disruption": 0,
-            "self_rate": 3
+            "self_rate": 5
         },
         {
             "catalog": "Others",
