@@ -20,29 +20,31 @@ function App() {
   }, [])
   return (
     <>
-      <div className='grid grid-cols-3'>
+      <div className='md:grid md:grid-cols-3'>
         <div className='block'>
           {resume.profile && <Profile data={resume.profile} />}
           <div>
             {resume.target && <Target data={resume.target} />}
-            {resume.languages && <Languages data={resume.languages} />}
             <div className='hidden md:block'>
-              {/* {resume.skills && <Skill2 data={resume.skills} />} */}
+              {resume.languages && <Languages data={resume.languages} />}
+              {resume.skills && <Skill2 data={resume.skills} />}
+              {resume.education && resume.certificates && <Education education={resume.education} certificates={resume.certificates} />}
+              {resume.profile && <Others data={resume.profile} />}
             </div>
             {/* <div className='h-20'></div> */}
-            {resume.education && resume.certificates && <Education education={resume.education} certificates={resume.certificates} />}
-            {resume.profile && <Others data={resume.profile} />}
           </div>
-          {/* <div>
+          <div>
             {resume.portfolio && <Portfolio data={resume.portfolio} />}
-          </div> */}
+          </div>
         </div>
         <div className='col-span-2'>
           {resume.career && <Career data={resume.career} />}
           <div className='block md:hidden'>
-            {/* {resume.skills && <Skill2 data={resume.skills} />} */}
+            {resume.skills && <Skill2 data={resume.skills} />}
+            {resume.languages && <Languages data={resume.languages} />}
+            {resume.education && resume.certificates && <Education education={resume.education} certificates={resume.certificates} />}
+            {resume.profile && <Others data={resume.profile} />}
           </div>
-          {/* {resume.skills && <Skills data={resume.skills} />} */}
         </div>
       </div>
       <div className='hidden w-1/6'></div>

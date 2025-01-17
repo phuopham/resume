@@ -7,7 +7,12 @@ const Education = ({ education, certificates }) => {
                 Education
             </div>
             <ul className='flex gap-2 flex-wrap p-2'>
-
+                {certificates.map((it, key) => (
+                    <li key={key}>
+                        <div className='rounded-t-xl text-slate-800 bg-green-400 px-2 '>{it.shortname}</div>
+                        <div className=' bg-slate-200 px-2 rounded-b-xl'>{it.year}</div>
+                    </li>
+                ))}
                 <li>
                     <div className='rounded-t-xl text-slate-800 bg-green-400 px-2 font-semibold uppercase'>{education[0].institute}</div>
                     <div className=' bg-slate-200 px-2'>{education[0].major}</div>
@@ -27,12 +32,7 @@ const Education = ({ education, certificates }) => {
                         </div>
                     </div>
                 </li>
-                {certificates.map((it, key) => (
-                    <li key={key}>
-                        <div className='rounded-t-xl text-slate-800 bg-green-400 px-2 '>{it.shortname}</div>
-                        <div className=' bg-slate-200 px-2 rounded-b-xl'>{it.year}</div>
-                    </li>
-                ))}
+
             </ul>
         </div >
     )
