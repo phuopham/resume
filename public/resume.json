@@ -35,7 +35,7 @@
         ]
     },
     "target": {
-        "current": "strengthen management and development skills along with applying DevOps mindset"
+        "current": "strengthen management skillset and development skills along with applying DevOps mindset"
     },
     "career": [
         {
@@ -56,8 +56,8 @@
                 "..."
             ],
             "achievement": [
-                "The Safety Star 2023 Award",
-                "Met company expectation."
+                "Qualcomm Alliance Builder 2025 Award",
+                "The Safety Star 2023 Award"
             ],
             "tools": [
                 "Windows 10/11",
@@ -90,7 +90,7 @@
                 "Support setup conference system",
                 "Replace switch, routers",
                 "Support SDWAN migration",
-                "Build simple website from customer's idea",
+                "Build website from customer's idea",
                 "..."
             ],
             "achievement": [
@@ -550,15 +550,30 @@
         }
     ],
     "certificates": [
+         {
+            "year": "2025",
+            "field": "Nexthink IT Support Professional",
+            "shortname": "Nexthink IT Support Professional"
+        },
         {
             "year": "2025",
-            "field": "ITIL Foundation",
-            "shortname": "ITIL Foundation - PeopleCert"
+            "field": "ITIL Foundation v4",
+            "shortname": "ITILv4 Foundation - PeopleCert"
         },
         {
             "year": "2024",
             "field": "Certificate of completion: AWS Solution Architect Associate - BKCAD",
             "shortname": "AWS SAA - BKCAD"
+        },
+         {
+            "year": "2024",
+            "field": "Nexthink DEX Management Professional",
+            "shortname": "Nexthink DEX Management Professional"
+        },
+        {
+            "year": "2024",
+            "field": "Nexthink Associate",
+            "shortname": "Nexthink Associate"
         },
         {
             "year": "2023",
