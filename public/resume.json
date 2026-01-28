@@ -41,6 +41,64 @@
         {
             "from": "Mar 2022",
             "to": "now",
+            "company": "Qualcomm Vietnam",
+            "title": "IT engineer",
+            "detail": [
+                "Scope: Vietnam (2 sites and a Lab at factory), and part of Taiwan",
+                "Administer IT infrastructure and services (AD, printers, IP phone, IT assets...)",
+                "Contribute to global projects: MS Teams migration project, Windows11 role-out project, Server replacement projects...",
+                "End-user support including training and documentation",
+                "Ensure compliance with company standard policies and security guidelines",
+                "Acted as Junior Project Manager: Assisted in planning and executing multiple small projects. Collaborated with senior project managers, conducted research and analysis, participated in meetings to provide updates, and gathered requirements to ensure project alignment with customer expectations.",
+                "Manage Vietnam's IT budget. Save up to 10% IT service cost every year",
+                "Perform commercial tasks: obtain specification, managing purchase requests/orders...",
+                "Troubleshoot, analyze and resolve technical issues",
+                "..."
+            ],
+            "achievement": [
+                "Qualcomm Alliance Builder 2025 Award",
+                "The Safety Star 2023 Award"
+            ],
+            "tools": [
+                "Windows Server",
+                "AD",
+                "Azure",
+                "Service-now",
+                "Office365",
+                "Concerto",
+                "Jenkins",
+                "Ansible",
+                "Splunk",
+                "CyberArk PAM",
+                "Nexthink"
+            ]
+        },
+        {
+            "from": "Feb 2024",
+            "to": "now",
+            "company": "AXIOM technologies",
+            "title": "freelance IT Engineer",
+            "detail": [
+                "Customer service - EUC-FTE L2",
+                "Complete assigned tasks on time",
+                "Support ITAM"
+            ],
+            "achievement": [
+                "Regularly receive good feedback from huge bank"
+            ],
+            "tools": [
+                "Gsuit",
+                "Networking",
+                "Windows10",
+                "Linux",
+                "ITAM",
+                "Service-now",
+                "Sharepoint Online"
+            ]
+        },
+        {
+            "from": "Mar 2022",
+            "to": "now",
             "company": "Freelancer",
             "title": "IT freelancer",
             "detail": [
@@ -65,97 +123,6 @@
                 "Service-now",
                 "MS Teams",
                 "Networking"
-            ]
-        },
-        {
-            "from": "Mar 2022",
-            "to": "now",
-            "company": "Qualcomm Vietnam",
-            "title": "IT engineer",
-            "detail": [
-                "Administer IT infrastructure and services (AD, printers, IP phone, IT assets...)",
-                "Contribute to global projects: MS Teams migration project, Windows11 role-out project, Server replacement projects...",
-                "End-user support including training and documentation",
-                "Perform commercial tasks: obtain specification, managing purchase requests/orders...",
-                "Troubleshoot, analyze and resolve technical issues"
-            ],
-            "achievement": [
-                "Qualcomm Alliance Builder 2025 Award",
-                "The Safety Star 2023 Award"
-            ],
-            "tools": [
-                "Windows 10/11",
-                "Windows Server 2016/2019",
-                "AD",
-                "Azure",
-                "Ubuntu 18/20/22",
-                "Service-now",
-                "Office365",
-                "Concerto",
-                "Jenkins",
-                "Ansible",
-                "Splunk",
-                "CyberArk PAM",
-                "Nexthink",
-                "Networking",
-                "Collaboration skills",
-                "Devops mindset"
-            ]
-        },
-        {
-<<<<<<< Updated upstream
-            "from": "Mar 2022",
-            "to": "now",
-            "company": "Freelancer",
-            "title": "IT freelancer",
-            "detail": [
-                "Clients: Web888.vn, viepos.com, SHYNH spa, Dextermind Technologies Limited, Brilliant Tech Service ltd, SSE Global Technologies Inc....",
-                "Creating responsive HTML/react landing pages with provided design",
-                "Build custom functionality base on customer's requirement ",
-                "Support setup conference system",
-                "Replace switch, routers",
-                "Support SDWAN migration",
-                "Build website from customer's idea",
-                "..."
-            ],
-            "achievement": [
-                "Completed 10+ projects",
-                "Good feedbacks from clients"
-            ],
-            "tools": [
-                "Weekend only",
-                "HTML5",
-                "CSS/BootstrapCSS3,4,5 /tailwindCSS",
-                "PHP/Laravel 7,9,10",
-                "ReactJS",
-                "Service-now",
-                "MS Teams",
-                "Networking"
-            ]
-        },
-        {
-=======
->>>>>>> Stashed changes
-            "from": "Feb 2024",
-            "to": "now",
-            "company": "AXIOM technologies",
-            "title": "freelance IT Engineer",
-            "detail": [
-                "Customer service - EUC-FTE L2",
-                "Complete assigned tasks on time",
-                "Support ITAM"
-            ],
-            "achievement": [
-                "Regularly receive good feedback from huge bank"
-            ],
-            "tools": [
-                "Gsuit",
-                "Networking",
-                "Windows10",
-                "Linux",
-                "ITAM",
-                "Service-now",
-                "Sharepoint Online"
             ]
         },
         {
@@ -559,27 +526,22 @@
         }
     ],
     "certificates": [
-         {
+        {
             "year": "2025",
             "field": "Nexthink IT Support Professional",
             "shortname": "Nexthink IT Support Professional"
         },
         {
             "year": "2025",
-<<<<<<< Updated upstream
             "field": "ITIL Foundation v4",
             "shortname": "ITILv4 Foundation - PeopleCert"
-=======
-            "field": "ITIL Foundation",
-            "shortname": "ITIL Foundation"
->>>>>>> Stashed changes
         },
         {
             "year": "2025",
             "field": "AWS Solution Architect Associate",
             "shortname": "AWS SAA"
         },
-         {
+        {
             "year": "2024",
             "field": "Nexthink DEX Management Professional",
             "shortname": "Nexthink DEX Management Professional"
