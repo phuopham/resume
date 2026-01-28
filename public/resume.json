@@ -41,19 +41,43 @@
         {
             "from": "Mar 2022",
             "to": "now",
+            "company": "Freelancer",
+            "title": "IT freelancer",
+            "detail": [
+                "Clients: Web888.vn, viepos.com, SHYNH spa, Dextermind Technologies Limited, Brilliant Tech Service ltd, SSE Global Technologies Inc....",
+                "Creating responsive HTML/react landing pages with provided design",
+                "Build custom functionality base on customer's requirement ",
+                "Support setup conference system",
+                "Replace switch, routers",
+                "Support SDWAN migration",
+                "Build simple website from customer's idea",
+                "..."
+            ],
+            "achievement": [
+                "Completed 10+ projects",
+                "Good feedbacks from clients"
+            ],
+            "tools": [
+                "HTML5",
+                "CSS/BootstrapCSS3,4,5 /tailwindCSS",
+                "PHP/Laravel 7,9,10",
+                "ReactJS",
+                "Service-now",
+                "MS Teams",
+                "Networking"
+            ]
+        },
+        {
+            "from": "Mar 2022",
+            "to": "now",
             "company": "Qualcomm Vietnam",
             "title": "IT engineer",
             "detail": [
-                "Scope: Vietnam (2 sites and a Lab at factory), and part of Taiwan",
                 "Administer IT infrastructure and services (AD, printers, IP phone, IT assets...)",
                 "Contribute to global projects: MS Teams migration project, Windows11 role-out project, Server replacement projects...",
                 "End-user support including training and documentation",
-                "Ensure compliance with company standard policies and security guidelines",
-                "Acted as Junior Project Manager: Assisted in planning and executing multiple small projects. Collaborated with senior project managers, conducted research and analysis, participated in meetings to provide updates, and gathered requirements to ensure project alignment with customer expectations.",
-                "Manage Vietnam's IT budget. Save up to 10% IT service cost every year",
                 "Perform commercial tasks: obtain specification, managing purchase requests/orders...",
-                "Troubleshoot, analyze and resolve technical issues",
-                "..."
+                "Troubleshoot, analyze and resolve technical issues"
             ],
             "achievement": [
                 "Qualcomm Alliance Builder 2025 Award",
@@ -79,6 +103,7 @@
             ]
         },
         {
+<<<<<<< Updated upstream
             "from": "Mar 2022",
             "to": "now",
             "company": "Freelancer",
@@ -109,6 +134,8 @@
             ]
         },
         {
+=======
+>>>>>>> Stashed changes
             "from": "Feb 2024",
             "to": "now",
             "company": "AXIOM technologies",
@@ -273,7 +300,7 @@
             "detail": "",
             "experience_from": "2023",
             "disruption": 0,
-            "self_rate": 1
+            "self_rate": 3
         },
         {
             "catalog": "Development",
@@ -291,11 +318,7 @@
         {
             "catalog": "Development",
             "object": "HTML, CSS",
-            "experienced_with": [
-                "bootstrap CSS",
-                "tailwind CSS",
-                "bulma CSS"
-            ],
+            "experienced_with": [],
             "detail": "",
             "experience_from": "2022",
             "disruption": 0,
@@ -306,8 +329,7 @@
             "experienced_with": [
                 "React",
                 "NextJS",
-                "NodeJS",
-                "AngularJS - deprecated"
+                "NodeJS"
             ],
             "object": "Javascript",
             "detail": "",
@@ -385,8 +407,7 @@
                 "VSS",
                 "DNS",
                 "DHCP",
-                "File Server",
-                "IIS",
+                "FS",
                 "WDS"
             ],
             "object": "Windows server",
@@ -433,24 +454,12 @@
         {
             "catalog": "System Administration",
             "experienced_with": [
-                "VMware",
-                "Hyper-V",
-                "VirtualBox"
-            ],
-            "object": "Virtual machine",
-            "detail": "Create, manage VM and virtual switch",
-            "experience_from": "2016",
-            "disruption": 1,
-            "self_rate": 2
-        },
-        {
-            "catalog": "System Administration",
-            "experienced_with": [
+                "ESX",
                 "Docker"
             ],
-            "object": "Container",
-            "detail": "Create, manage in small scale",
-            "experience_from": "2023",
+            "object": "Virtualization",
+            "detail": "Create, manage VM and virtual switch",
+            "experience_from": "2016",
             "disruption": 1,
             "self_rate": 2
         },
@@ -557,13 +566,18 @@
         },
         {
             "year": "2025",
+<<<<<<< Updated upstream
             "field": "ITIL Foundation v4",
             "shortname": "ITILv4 Foundation - PeopleCert"
+=======
+            "field": "ITIL Foundation",
+            "shortname": "ITIL Foundation"
+>>>>>>> Stashed changes
         },
         {
-            "year": "2024",
-            "field": "Certificate of completion: AWS Solution Architect Associate - BKCAD",
-            "shortname": "AWS SAA - BKCAD"
+            "year": "2025",
+            "field": "AWS Solution Architect Associate",
+            "shortname": "AWS SAA"
         },
          {
             "year": "2024",
